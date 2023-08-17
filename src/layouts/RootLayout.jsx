@@ -17,6 +17,9 @@ export default function RootLayout() {
                         <NavLink className="nav-link" to="help">
                             Hjälp
                         </NavLink>
+                        <NavLink className="nav-link" to="profiles">
+                            Profiler
+                        </NavLink>
                     </div>
                 </nav>
             </header>
